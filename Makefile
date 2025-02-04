@@ -1,4 +1,5 @@
 IMAGE_TAG = local-nominatim
+
 IMAGE_PORT = 8002
 SERVER_PORT = 8080
 
